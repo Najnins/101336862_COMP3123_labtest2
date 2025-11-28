@@ -8,6 +8,8 @@ The app retrieves current weather and a 5-day forecast using the OpenWeatherMap 
 ## Features
 - Search weather by city
 - Displays temperature, weather condition, and icon
+- -5-Day Forecast
+- -5-Day Forecast
 - Responsive UI
 
 ## Tech Stack
